@@ -5,8 +5,8 @@
   --text: #2b2622;
   --muted: #7a726a;
   --border: #ece4dc;
-  --accent: #e8804f;   /* 暖橙 */
-  --accent-2: #f2b263; /* 暖黄 */
+  /*--accent: #e8804f;    暖橙 */
+  /*--accent-2: #f2b263; 暖黄 */
   --shadow: 0 8px 30px rgba(60, 40, 25, 0.08);
   --radius: 16px;
 }
